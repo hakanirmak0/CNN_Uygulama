@@ -1,2 +1,2 @@
-# CNN_Uygulama
-Trafik işaretlerini CNN ile tanıma.
+# CNN Uygulama
+CNN Uygulama - Trafik İşaretlerini Tanıma
